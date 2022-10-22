@@ -12,6 +12,14 @@
     <string name="q_find_resources">Do zasobów w aplikacji dla systemu Android odnosimy się po nazwach</string>
 
     <string name="hello">Witaj w aplikacji Quiz</string>
+
     <string name="correct_answer">Poprawna odpowiedź :)</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź :(</string>
+
+    <string name="prompt">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_show_prompt">Pokaż odpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedź już została wyświetlona.</string>
+
 </resources>
